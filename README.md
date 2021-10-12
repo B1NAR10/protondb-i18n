@@ -55,6 +55,7 @@ As ProtonDB continues development, new text will be added that may need translat
 ### Known Active Translations
 
 - Portuguese (pt-BR): [@pedrofleck](https://github.com/pedrofleck) (ongoing at [PR #10](https://github.com/bdefore/protondb-i18n/pull/10))
+- Galician (gl): [@B1NAR10](https://github.com/B1NAR10)
 
 ### Hall of Fame
 
