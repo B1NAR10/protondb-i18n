@@ -1,20 +1,20 @@
 {
-  "genericFollowUpPrompt": "¿Qué tipo de problemas?",
+  "genericFollowUpPrompt": "Qué tipo de problemas?",
   "misc": {
-    "answerRequired": "Se necesita respuesta",
-    "answerRequiredWhenNotListed": "SE necesita respuesta cuando se elije 'No está en la lista' ",
+    "answerRequired": "Necesitase resposta",
+    "answerRequiredWhenNotListed": "Necesitase resposta cando se elixe 'Non está na lista' ",
     "back": "Volver",
-    "error": "Error!",
-    "markdownSupportNotice": "Ahora Markdown es compatible",
+    "error": "Erro!",
+    "markdownSupportNotice": "Ahora Markdown é compatible",
     "maxChars": "{{count}} carácteres como máximo",
-    "next": "Siguiente",
+    "next": "Seguinte",
     "submission": {
-      "error": "Ha habido un error durante el envío. Por favor, háznos saber como ha ocurrido!",
-      "note": "Por favor, ten en cuenta que los nuevos reportes estarán en un estado pendiente hasta la seguiente recarga de contenido. Puedes ver tus contribuciones en tu [Perfil]({{link}})",
+      "error": "Produciuse un erro durante eo envío. Por favor, avísanos como pasou!",
+      "note": "Por favor, ten en conta que os novos reportes estarán nun estado pendiente ata a seguinte recarga de contido. Podes ver as túas contribucións no teu [Perfil]({{link}})",
       "success": "Satisfactoriamente enviado",
-      "thanks": "Gracias por tu contribución a {{siteName}}"
+      "thanks": "Grazas polo túa contribución a {{siteName}}"
     },
     "submit": "Enviar",
-    "tooLong": "Demasiado largo"
+    "tooLong": "Demasiado longo"
   }
 }
